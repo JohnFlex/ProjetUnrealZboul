@@ -75,4 +75,4 @@ DerivedDataCache/*
 
 Content/StarterContent/*
 
-!Content/StarterContent/Maps/*
+!Content/StarterContent/Maps/
